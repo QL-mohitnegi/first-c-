@@ -1,0 +1,14 @@
+/home/mohit251103/quokka_labs/second/bin/Debug/net8.0/second
+/home/mohit251103/quokka_labs/second/bin/Debug/net8.0/second.deps.json
+/home/mohit251103/quokka_labs/second/bin/Debug/net8.0/second.runtimeconfig.json
+/home/mohit251103/quokka_labs/second/bin/Debug/net8.0/second.dll
+/home/mohit251103/quokka_labs/second/bin/Debug/net8.0/second.pdb
+/home/mohit251103/quokka_labs/second/obj/Debug/net8.0/second.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohit251103/quokka_labs/second/obj/Debug/net8.0/second.AssemblyInfoInputs.cache
+/home/mohit251103/quokka_labs/second/obj/Debug/net8.0/second.AssemblyInfo.cs
+/home/mohit251103/quokka_labs/second/obj/Debug/net8.0/second.csproj.CoreCompileInputs.cache
+/home/mohit251103/quokka_labs/second/obj/Debug/net8.0/second.dll
+/home/mohit251103/quokka_labs/second/obj/Debug/net8.0/refint/second.dll
+/home/mohit251103/quokka_labs/second/obj/Debug/net8.0/second.pdb
+/home/mohit251103/quokka_labs/second/obj/Debug/net8.0/second.genruntimeconfig.cache
+/home/mohit251103/quokka_labs/second/obj/Debug/net8.0/ref/second.dll
