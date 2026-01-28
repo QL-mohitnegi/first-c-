@@ -11,6 +11,7 @@ class Program
 
 partial class Test
 {
+// changes
 
 }
 
