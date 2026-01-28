@@ -16,6 +16,6 @@ partial class Test
 
 partial class Test
 {
-    
+    // new changes
 }
 
